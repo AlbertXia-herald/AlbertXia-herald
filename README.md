@@ -47,9 +47,11 @@ The goal is to identify a well-grounded model-improvement direction while mainta
 
 ## Selected Engineering Projects
 
-### Maple Bridge — Interactive Cultural Tourism Platform
+### Maple Bridge — Interactive Cultural Heritage Web Experience
 
-A multi-page interactive web application for exploring the cultural heritage of Maple Bridge, combining map-based navigation, multimedia content, location-based interactions, and cultural mini-games.
+A mobile-first web experience for exploring the cultural heritage of Maple Bridge, combining interactive maps, route guidance, multimedia content, accessibility-oriented interactions, and a lightweight local FAQ assistant.
+
+**Tech:** HTML · CSS · JavaScript · AMap Web SDK · Responsive Design
 
 [View repository →](https://github.com/AlbertXia-herald/maple-bridge-CPT208)
 
@@ -88,7 +90,7 @@ I am currently working on:
 
 - audio detection and sound event detection for my Final Year Project;
 - pretrained audio representations and two-stage training strategies;
-- improving the reproducibility and presentation of my public research and engineering projects.
+- identifying reproducible model-improvement directions compatible with established sound event detection baselines.
 
 ---
 
