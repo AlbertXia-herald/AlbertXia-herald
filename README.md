@@ -3,7 +3,7 @@
 **Undergraduate Researcher in Machine Learning & Audio Intelligence**  
 BSc Information and Computing Science · Xi'an Jiaotong-Liverpool University (XJTLU)
 
-I am interested in building machine learning systems for **audio understanding, speech processing, and data-driven intelligent applications**. My current work focuses on acoustic scene analysis, speech enhancement, domain adaptation, and representation learning.
+I am interested in building machine learning systems for **audio understanding, speech processing, and data-driven intelligent applications**. My research interests include acoustic scene analysis, sound event detection, speech enhancement, domain adaptation, and representation learning.
 
 ---
 
@@ -53,11 +53,16 @@ A multi-page interactive web application for exploring the cultural heritage of 
 
 [View repository →](https://github.com/AlbertXia-herald/maple-bridge-CPT208)
 
-### Cultural Resource Platform
+### Heritage Exchange — Backend Workflow & Authorization
 
-A full-stack content-management platform supporting role-based contribution, review, publication, archiving, restoration, and administrative workflows.
+A **9-member team project** for CPT202 developing a cultural heritage content platform with role-based publishing, review, and community workflows.
 
-[View repository →](https://github.com/AlbertXia-herald/CPT202)
+My contribution focused on the backend administrative workflow, including article moderation, content management, user and contributor permission flows, JWT authentication with Spring Security, and API-level regression testing.
+
+**Tech:** Java · Spring Boot · Spring Security · JWT · Spring Data JPA · REST APIs · MockMvc
+
+[View final team repository →](https://github.com/Mazetracer/Heritage-Exchange)  
+[View my contribution snapshot →](https://github.com/AlbertXia-herald/CPT202)
 
 ---
 
