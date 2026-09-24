@@ -27,13 +27,13 @@ The project investigates device and city domain shifts in acoustic scene classif
 
 ---
 
-### PrimeK-Net — Speech Enhancement Research
+### PrimeK-Net — Speech Enhancement & Phase Analysis
 
-Research work based on **PrimeK-Net** for single-channel speech enhancement, including strict baseline reproduction and subsequent phase-oriented analysis.
+Previous research work based on **PrimeK-Net** for single-channel speech enhancement, including strict baseline reproduction and subsequent phase-oriented analysis.
 
-The current research explores the statistical structure of phase estimation and the role of phase concentration in speech enhancement.
+The study examined phase concentration and statistical phase modeling as possible directions for improving phase-aware speech enhancement.
 
-**Topics:** speech enhancement · spectral learning · phase analysis · reproducible experimentation
+**Topics:** speech enhancement · baseline reproduction · spectral learning · phase analysis
 
 ---
 
@@ -82,8 +82,8 @@ BSc Information and Computing Science
 I am currently working on:
 
 - audio detection and sound event detection for my Final Year Project;
-- speech enhancement and phase-related analysis;
-- improving the reproducibility and presentation of my research projects.
+- pretrained audio representations and two-stage training strategies;
+- improving the reproducibility and presentation of my public research and engineering projects.
 
 ---
 
