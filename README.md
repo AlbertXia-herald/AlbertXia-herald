@@ -23,7 +23,7 @@ The project investigates device and city domain shifts in acoustic scene classif
 
 **Highlights:** domain adaptation · time-frequency modeling · dual-head classification · PyTorch
 
-[View repository →](https://github.com/AlbertXia-herald/TF-SepDualnet-used-in-acoustic-scene-classification)
+[View repository →](https://github.com/AlbertXia-herald/TF-SepDualNet)
 
 ---
 
